@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zone19</string>
+    <string name="google_sign_up">GOOGLE</string>
+    <string name="textgoogle">Se connecter avec : </string>
+</resources>
